@@ -1,4 +1,4 @@
-Projeto recriado site da Netflix
+Nossa Netflix 
 
 Criei este site como um presente para pessoa que sempre me apoio neste meu sonho de ser programador.
 
